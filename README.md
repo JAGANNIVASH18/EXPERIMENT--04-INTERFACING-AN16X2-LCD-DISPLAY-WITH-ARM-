@@ -204,10 +204,10 @@ int main(void)
 
     /* Display Text */
     Lcd_cursor(&lcd, 0, 1);
-    Lcd_string(&lcd, "THIRUMALAI K");
+    Lcd_string(&lcd, "Jagannivash");
 
     Lcd_cursor(&lcd, 1, 1);
-    Lcd_string(&lcd, "212224240176");
+    Lcd_string(&lcd, "212224240059");
 
     while (1)
     {
